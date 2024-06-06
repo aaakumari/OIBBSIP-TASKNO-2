@@ -23,4 +23,7 @@ This is a tribute page dedicated to  Mr.Sundar Pichai showcasing his life, achie
 1. Open the tribute page in your web browser.
 2. Read through the biography and explore the timeline and media sections.
 3. Learn more about the person/subject and their contributions.
+   
+## Screenshot
+![T PAGE](https://github.com/aaakumari/OIBBSIP-TASKNO-2/assets/170171540/5a784873-932e-4fdf-b37f-3867b1076b25)
 
